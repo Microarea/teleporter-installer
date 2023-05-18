@@ -1,2 +1,2 @@
-tsh_url: "https://cdn.teleport.dev/teleport-v12.4.2-windows-amd64-bin.zip"
+tsh_url: "https://microarea.github.io/teleporter-installer/teleport.zip"
 tsh_version: "12.4.2"
